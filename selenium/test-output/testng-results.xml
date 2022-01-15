@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[send]]>
+    </line>
+    <line>
+      <![CDATA[send]]>
+    </line>
+    <line>
+      <![CDATA[send]]>
+    </line>
+    <line>
+      <![CDATA[compose]]>
+    </line>
+    <line>
+      <![CDATA[TRASH]]>
+    </line>
+    <line>
+      <![CDATA[type]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="224" started-at="2022-01-08T13:45:58Z" finished-at="2022-01-08T13:45:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="224" started-at="2022-01-08T13:45:58Z" finished-at="2022-01-08T13:45:58Z">
+      <class name="TestNG.Invocationcount">
+        <test-method status="PASS" signature="Com()[pri:0, instance:TestNG.Invocationcount@7d9d1a19]" name="Com" duration-ms="31" started-at="2022-01-08T13:45:58Z" finished-at="2022-01-08T13:45:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[send]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Com -->
+        <test-method status="PASS" signature="Com()[pri:0, instance:TestNG.Invocationcount@7d9d1a19]" name="Com" duration-ms="4" started-at="2022-01-08T13:45:58Z" finished-at="2022-01-08T13:45:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[send]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Com -->
+        <test-method status="PASS" signature="Com()[pri:0, instance:TestNG.Invocationcount@7d9d1a19]" name="Com" duration-ms="21" started-at="2022-01-08T13:45:58Z" finished-at="2022-01-08T13:45:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[send]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Com -->
+        <test-method status="PASS" signature="Gmail()[pri:0, instance:TestNG.Invocationcount@7d9d1a19]" name="Gmail" duration-ms="7" started-at="2022-01-08T13:45:58Z" finished-at="2022-01-08T13:45:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[compose]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Gmail -->
+        <test-method status="PASS" signature="Trash()[pri:0, instance:TestNG.Invocationcount@7d9d1a19]" name="Trash" duration-ms="3" started-at="2022-01-08T13:45:58Z" finished-at="2022-01-08T13:45:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TRASH]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Trash -->
+        <test-method status="PASS" signature="Type()[pri:0, instance:TestNG.Invocationcount@7d9d1a19]" name="Type" duration-ms="5" started-at="2022-01-08T13:45:58Z" finished-at="2022-01-08T13:45:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[type]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Type -->
+      </class> <!-- TestNG.Invocationcount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
